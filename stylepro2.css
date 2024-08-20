@@ -1,0 +1,8 @@
+.nav-item1{
+    margin-left: 20px;
+}
+.card-img-top1:hover{
+    height: 14rem;
+    width: 14rem;
+   border: 3px solid black;
+}
